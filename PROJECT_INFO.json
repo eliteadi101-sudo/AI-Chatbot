@@ -1,0 +1,5 @@
+{
+  "name": "AI Chatbot API Demo",
+  "stack": "Python, Flask, OpenAI-compatible API (optional)",
+  "description": "A chat UI with a configurable OpenAI-compatible endpoint. Without credentials it runs in demo mode."
+}
